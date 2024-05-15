@@ -12,7 +12,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morjello&layout=compact&theme=vision-friendly-dark)]
+
+### :fire: Статистика : 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morjello&layout=compact&theme=vision-friendly-dark)
 <!--
 **Morjello/morjello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
